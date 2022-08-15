@@ -1,0 +1,26 @@
+{
+  "name": "project-0-jira",
+  "version": "1.0.0",
+  "description": "try using jira",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banuprabowo1996/project-0-jira.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banuprabowo1996/project-0-jira/issues"
+  },
+  "homepage": "https://github.com/banuprabowo1996/project-0-jira#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
